@@ -1,4 +1,6 @@
+LIMIT = 7
 mark = 10
 
-if mark >= 7:
+
+if mark >= LIMIT:
     print("You're doing just fine!")
